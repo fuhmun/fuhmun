@@ -1,4 +1,4 @@
-# Computer Science student at Umich Ann Arbor || Student at Apple Developer Academy
+### Computer Science @ Umich Ann Arbor | Student at Apple Developer Academy
 
 
 
